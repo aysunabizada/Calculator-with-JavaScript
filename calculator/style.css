@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#87DEF0 ;
+}
+
+.container{
+    padding-top: 10rem;
+}
+
+.calculator{
+    padding: 35px;
+    border-radius: 1em;
+    height: 450px;
+    width: 350px;
+    margin: auto;
+    background-color: black;
+
+}
+
+.display-box {
+    background-color: #dcdbe1;
+    color: black;
+    width: 100%;
+    height: 85%;
+    font-size: 25px;
+}
+
+#btn{
+    background-color: #F43A00;
+}
+
+input[type=button] {
+    background-color: #C7C7C7;
+    color: black;
+    border: 0;
+    width: 100%;
+    border-radius: 5px;
+    height: 80%;
+    font-size: 20px;
+}
